@@ -9,15 +9,6 @@
     "format:check": "prettier --check .",
     "format:write": "prettier --write ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Honeyside/Clover.git"
-  },
-  "author": "",
-  "bugs": {
-    "url": "https://github.com/Honeyside/Clover/issues"
-  },
-  "homepage": "https://github.com/Honeyside/Clover#readme",
   "dependencies": {
     "argon2": "0.31.2",
     "bluebird": "3.7.2",
